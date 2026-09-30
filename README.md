@@ -1,10 +1,14 @@
 # Kartikeya Gangwar
 *(Officially documented name : Kartikey Singh)*
 
-I work from first principles on computational mathematics, scientific machine learning, and high-performance simulation. My research focuses on derivative-informed neural surrogates for ill-posed inverse problems (EIT), operator conditioning and false convergence in Navier–Stokes fluid mechanics, symplectic Hamiltonian neural networks preserving exact energy invariants in celestial mechanics, and high-dimensional stochastic PDEs.
+I learn by building things from first principles.
 
-I spend my time between mathematical derivations, building custom solvers in PyTorch and C++, sketching with pencil on paper, understanding the internal mechanics of cars and motorcycles, driving, working with tractors in my village, and intense daily physical training.
+My work is in computational mathematics and scientific machine learning—focusing on neural surrogates for inverse problems (EIT), operator conditioning in Navier–Stokes fluid mechanics, symplectic neural networks for celestial dynamics, and high-dimensional PDEs.
 
-Everything I build is developed in the open—code, manuscripts, and reproduction pipelines are archived publicly.
+I spend my time deriving mathematics, writing custom solvers in PyTorch and C++, sketching with pencil on paper, understanding how cars and motorcycles work, driving, working with tractors in my village, and daily physical training.
 
-[Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0009-1973-7532%22) &bull; [Email](mailto:kartikeysingh525@protonmail.com)
+I care about things that actually work under load—whether it's an engine, an athletic lift, or a numerical solver.
+
+Everything I build is open-source.
+
+[Zenodo Preprints](https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0009-1973-7532%22) &bull; [Email](mailto:kartikeysingh525@protonmail.com)
