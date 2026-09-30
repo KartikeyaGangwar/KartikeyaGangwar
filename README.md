@@ -7,4 +7,4 @@ I spend my time between mathematical derivations, building custom solvers in PyT
 
 Everything I build is developed in the open—code, manuscripts, and reproduction pipelines are archived publicly.
 
-[Zenodo](https://zenodo.org/search?q=Kartikeya%20Gangwar) &bull; [Email](mailto:kartikeysingh525@protonmail.com)
+[Zenodo](https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0009-1973-7532%22) &bull; [Email](mailto:kartikeysingh525@protonmail.com)
