@@ -5,14 +5,14 @@ Undergraduate Researcher in Mathematics &bull; University of Delhi
 
 I work from first principles at the intersection of **computational mathematics**, **scientific machine learning**, and **high-performance systems**.
 
-Rather than chasing conventional academic rituals or status games, I focus on **sovereign capability**—confronting difficult, high-dimensional problems by building the mathematical machinery and bare-metal software required to master them.
+I build from first principles—confronting difficult, high-dimensional problems by engineering the exact mathematical machinery and bare-metal software required to understand and master them.
 
-My life is anchored in three interconnected disciplines:
+My work and daily practice are anchored in three disciplines:
 - **Mathematical Invariants:** Symplectic geometry, infinite-dimensional operator conditioning, high-dimensional stochastic PDEs, and writing custom autograd engines from scratch.
-- **Physical Discipline:** Grounded in my village roots through farming, heavy tractor mechanics, and relentless daily athletic conditioning. A sharp mind requires a tempered physical foundation.
+- **Physical Discipline:** Grounded in my village roots through farming, operating heavy machinery, and relentless daily athletic conditioning. A sharp intellect requires a resilient physical foundation.
 - **The Visual Craft:** Sketching with pencil on paper. Drawing trained my intuition for continuous curves, contours, and spatial balance long before I formalized them into B-splines and Riemannian manifolds.
 
-I practice **open science**: every theoretical formulation and computational engine I build is released publicly with full reproducibility. When your mathematics is sound and your code runs, you have nothing to hide and no gatekeeper to satisfy.
+I practice **open science**: every theoretical formulation and computational engine I build is published openly with complete reproducibility and persistent Zenodo DOIs, inviting rigorous verification and real-world extension.
 
 ---
 
