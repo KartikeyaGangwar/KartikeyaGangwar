@@ -13,4 +13,4 @@ I care about things that actually work under load—whether it's an engine, an a
 
 Everything I build is open-source.
 
-[Zenodo Preprints](https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0009-1973-7532%22) &bull; [Email](mailto:kartikeysingh525@protonmail.com)
+[Zenodo Preprints](https://zenodo.org/search?q=metadata.creators.person_or_org.identifiers.identifier%3A%220009-0009-1973-7532%22) &bull; [Email](mailto:kartikeyagangwar@proton.me)
