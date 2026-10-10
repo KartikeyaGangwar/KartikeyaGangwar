@@ -3,9 +3,13 @@
 
 Independent researcher in computational mathematics and scientific machine learning, currently completing a B.Sc. (Honours) Mathematics at the University of Delhi. Invited peer reviewer for *Physics of Fluids* (AIP Publishing).
 
-I build numerical solvers and neural architectures from first principles. When working with nonlinear physical systems, I focus on the failure modes and extreme limits first—that is usually where naive approximations break down and the true governing geometric invariants show up.
+I build numerical solvers and computational systems from first principles. My work sits at the intersection of computational mathematics, geometric mechanics, and scientific machine learning. Rather than treating models as black boxes, I design computational architectures that respect the underlying mathematical structure—forcing algorithms to preserve geometric invariants, phase-space structure, and physical conservation laws.
 
-Everything I write is open-source.
+When approaching complex or nonlinear dynamical systems, I look at the failure modes and extreme limits first. That is usually where naive approximations break down, where numerical diffusion creeps in, and where the true governing geometry reveals itself. Whether working on fluid turbulence, chaotic multi-body dynamics, high-dimensional stochastic PDEs, or foundation time-series architectures, the objective remains constant: building methods that hold up when conditions become extreme.
+
+Outside of mathematical derivations and custom PyTorch/C++ routines, intellectual work cannot be separated from physical reality. Working with tractors and agriculture in my village, maintaining and driving machinery to understand mechanical thresholds, and daily heavy physical training keep my thinking grounded. Freehand pencil sketching trained my eye to understand continuous curvature, perspective, and spatial balance long before formalizing them into differential geometry.
+
+The standard is straightforward: things must work under load—whether it is a mechanical engine, an athletic lift, or an algorithm. Everything I formulate is developed in the open with publicly archived code, manuscripts, and reproduction pipelines.
 
 ---
 
@@ -21,16 +25,6 @@ Everything I write is open-source.
 | **[Deep-EEP-PINN](https://github.com/KartikeyaGangwar/Deep-EEP-PINN)** | High-Dimensional Obstacle PDEs | Prices American basket options up to $d=50$ assets (1,225 correlations) via directional Hessian trace contractions in $\mathcal{O}(d)$ complexity ($<3\,\text{GB}$ VRAM). Absorbs maturity kinks into an analytical European baseline. | Working Paper / Zenodo |
 | **[Adaptive Subspace (AS) Trilogy](https://github.com/KartikeyaGangwar/null-space-pinn)** | Multi-Task Optimization | Direct-sum parameter decomposition ($\Theta_0 \oplus \Theta_1$) with Quintic Hermite routing, extending from static null-space PINNs to autonomous parameter-space AMR (AS-PINN, $725\times$ lower loss) and dynamic vision transformers (AS-ViT). | Act I Under Review, *Elsevier JCP* |
 | **[BRSDK v2.0.1](https://github.com/KartikeyaGangwar/BRSDK)** | Sim2Real Vehicle Dynamics | Hooks into BeamNG's 2,000 Hz soft-body physics loop to extract tire slip energy and dynamic damper velocities with zero dynamic Lua heap allocations. Includes an Apache Arrow / Polars Python SDK and DLPack PyTorch bindings. | Open-Source / Target: *JOSS* |
-
----
-
-### How I Work & Personal Reality
-
-I spend most of my time deriving mathematics, writing custom autodiff routines in PyTorch, profiling CUDA kernels, and sketching freehand with pencil on paper. Sketching trained my eye to understand continuous curvature, perspective, and spatial balance long before I learned differential geometry.
-
-Outside the desk, I care about physical realities that cannot be faked. I work with tractors in my village, drive cars and motorcycles to understand their mechanical thresholds, and train daily with heavy barbell lifting (120kg) and high-intensity conditioning. 
-
-To me, an engine, an athletic lift, and a numerical solver follow the exact same rule: either they hold together under load, or they break.
 
 ---
 
